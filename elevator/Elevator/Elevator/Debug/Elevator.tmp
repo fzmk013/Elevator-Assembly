@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\Debug\Elevator.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Elevator.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Elevator.map</FILE>
+  <FILE>Elevator.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>11</LINE></main>
+  <rout_0><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>39</LINE></rout_0>
+  <rout_1><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>50</LINE></rout_1>
+  <g1><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>19</LINE></g1>
+  <g2><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>28</LINE></g2>
+  <wait><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>37</LINE></wait>
+  <twenty><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>54</LINE></twenty>
+  <thirty><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>68</LINE></thirty>
+  <L1><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>55</LINE></L1>
+  <L2><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>57</LINE></L2>
+  <L3><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>59</LINE></L3>
+  <L4><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>69</LINE></L4>
+  <L5><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>71</LINE></L5>
+  <L6><FILE>C:\Users\TUF\Documents\Atmel Studio\7.0\Elevator\Elevator\main.asm</FILE><LINE>73</LINE></L6>
+ </LABELS>
+</ASSEMBLER_INFO>
